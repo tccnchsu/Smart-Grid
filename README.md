@@ -31,8 +31,13 @@ Induction Generator in Wind Generation
 Traditional models of the Induction Machine (IM) 
 https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf
 
+
 Vector control strategy 非常清楚
 https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf
+
+2019版 matlab qd 座標轉換 simulink 有方塊函數
+
+https://www.mathworks.com/help/physmod/sps/powersys/ref/alphabetazerotodq0dq0toalphabetazero.html
 
 Maxwell's equations
 

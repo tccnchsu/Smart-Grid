@@ -21,3 +21,9 @@ Fig.IO.3. Complex current vector http://een.iust.ac.ir/profs/Arabkhabouri/Electr
 8.2-4 313頁
 電力機械教科書
 http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf
+
+
+Parallel Connection of Doubly-Fed
+Induction Generator in Wind Generation
+
+簡單的推導                                                  http://web.mit.edu/kirtley/binlustuff/literature/wind%20turbine%20sys/DFIGinWindTurbine.pdf

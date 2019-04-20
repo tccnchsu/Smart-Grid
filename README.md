@@ -3,6 +3,10 @@
 
 Electrical Machines -Mathematical Fundamentals of Machine Topologies
 https://www.academia.edu/10178085/Electrical_Machines_-Mathematical_Fundamentals_of_Machine_Topologies
+書  Analysis of Electric Machinery and Drive Systems
+http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf
+
+
 
 工程數學 563頁  電路的複數計算
 https://jpmccarthymaths.files.wordpress.com/2012/09/john_bird_engineering_mathematics_0750685557.pdf

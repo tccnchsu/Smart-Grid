@@ -30,3 +30,10 @@ Induction Generator in Wind Generation
 
 Traditional models of the Induction Machine (IM) 
 https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf
+
+Vector control strategy 非常清楚
+https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf
+
+
+Induction motor
+https://en.wikipedia.org/wiki/Induction_motor

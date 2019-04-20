@@ -17,3 +17,6 @@ https://www.researchgate.net/publication/224384147_Doubly-Fed_Induction_Generato
 qd frame 的複數數學
 Fig.IO.3. Complex current vector http://een.iust.ac.ir/profs/Arabkhabouri/Electrical%20Drives/Books/(%20)%20Prof.%20Dr.-Ing.%20Dr.%20h.c.%20Werner%20Leonhard%20%20(auth.)-Control%20of%20Electrical%20Drives-Springer%20Berlin%20Heidelberg%20(1996).pdf
 
+194  qd transformed 
+電力機械教科書
+http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf

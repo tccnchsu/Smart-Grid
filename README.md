@@ -27,3 +27,6 @@ Parallel Connection of Doubly-Fed
 Induction Generator in Wind Generation
 
 簡單的推導                                                  http://web.mit.edu/kirtley/binlustuff/literature/wind%20turbine%20sys/DFIGinWindTurbine.pdf
+
+Traditional models of the Induction Machine (IM) 
+https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf

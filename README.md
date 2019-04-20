@@ -1,4 +1,14 @@
 # Smart-Grid
+
+數學基礎 向量分析
+向量分析介紹 (Rich Wang)
+http://140.129.118.16/~richwang/EM/VectorAnalysisPDFAll.pdf
+
+Vectors, Matrices and Coordinate Transformations
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-07-dynamics-fall-2009/lecture-notes/MIT16_07F09_Lec03.pdf
+
+
+
 超越Mask-RCNN：谷歌大脑的AI，自己写了个目标检测AI
 http://tech.sina.com.cn/csj/2019-04-19/doc-ihvhiqax3888201.shtml
 

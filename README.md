@@ -1,5 +1,8 @@
 # Smart-Grid
 
+工程數學 563頁  電路的複數計算
+https://jpmccarthymaths.files.wordpress.com/2012/09/john_bird_engineering_mathematics_0750685557.pdf
+
 數學基礎 向量分析
 向量分析介紹 (Rich Wang)
 http://140.129.118.16/~richwang/EM/VectorAnalysisPDFAll.pdf

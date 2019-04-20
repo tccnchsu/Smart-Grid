@@ -31,6 +31,16 @@ Induction Generator in Wind Generation
 Traditional models of the Induction Machine (IM) 
 https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf
 
+Mathematical Model of Asynchronous Machine in MATLAB Simulink
+https://www.researchgate.net/publication/50273958_Mathematical_Model_of_Asynchronous_Machine_in_MATLAB_Simulink
+
+induction machine 簡單清楚投影片
+1. 3:2 Phase Transformation
+2. Rotating to Fixed Axes Transformation
+https://www.eal.ei.tum.de/fileadmin/tueieal/www/courses/EAUSIGA/lecture/2011-2012-W/wuppertal-park.pdf
+
+
+
 
 Vector control strategy 非常清楚
 https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf

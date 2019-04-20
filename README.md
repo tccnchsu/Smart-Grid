@@ -39,6 +39,8 @@ https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf
 
 https://www.mathworks.com/help/physmod/sps/powersys/ref/alphabetazerotodq0dq0toalphabetazero.html
 
+https://www.mathworks.com/help/physmod/sps/ref/inverseparktransform.html
+
 Maxwell's equations
 
 https://en.wikipedia.org/wiki/Maxwell%27s_equations

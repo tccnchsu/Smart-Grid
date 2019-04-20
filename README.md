@@ -9,3 +9,6 @@ https://core.ac.uk/download/pdf/81194191.pdf
 
 P.C. Krause, Analysis of Electric Machinery, McGraw-Hill, 1986.
 http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf
+
+Doubly-Fed Induction Generator Control Under Voltage Sags
+https://www.researchgate.net/publication/224384147_Doubly-Fed_Induction_Generator_Control_Under_Voltage_Sags

@@ -39,8 +39,8 @@ induction machine 簡單清楚投影片
 2. Rotating to Fixed Axes Transformation
 https://www.eal.ei.tum.de/fileadmin/tueieal/www/courses/EAUSIGA/lecture/2011-2012-W/wuppertal-park.pdf
 
-
-
+qd 轉換清楚
+https://pdfs.semanticscholar.org/cb99/28eab7334efda00ede3b5a689cc634523793.pdf
 
 Vector control strategy 非常清楚
 https://pdfs.semanticscholar.org/a02c/54d70b84bb5a72062985dd00467cd23911ac.pdf

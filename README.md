@@ -25,6 +25,9 @@ Fig.IO.3. Complex current vector http://een.iust.ac.ir/profs/Arabkhabouri/Electr
 電力機械教科書
 http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf
 
+2019matlab 的範例       Example 1
+The power_SM_Fundamental example shows the use of the Synchronous Machine SI Fundamental block and the Synchronous Machine pu Fundamental block to model a 555 MVA, 24 kV, 60 Hz, 3600-rpm synchronous generator. It shows how to specify SI and pu parameters. It also explains how to compute field and damper rotor winding parameters that are referred to the stator. In addition to the field winding, the round rotor of this machine has three damper windings: one damper in the direct axis and two dampers in the quadrature axis                                                                                                                                       https://www.mathworks.com/help/physmod/sps/powersys/ref/synchronousmachine.html
+
 
 碩士論文  表達很清楚  Simulation of a Synchronous Machine Model
 https://www.ethz.ch/content/dam/ethz/special-interest/itet/institute-eeh/power-systems-dam/documents/SAMA/2018/Hobi-SA-2018.pdf

@@ -26,6 +26,9 @@ Fig.IO.3. Complex current vector http://een.iust.ac.ir/profs/Arabkhabouri/Electr
 http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf
 
 
+碩士論文  表達很清楚  Simulation of a Synchronous Machine Model
+https://www.ethz.ch/content/dam/ethz/special-interest/itet/institute-eeh/power-systems-dam/documents/SAMA/2018/Hobi-SA-2018.pdf
+
 Parallel Connection of Doubly-Fed
 Induction Generator in Wind Generation
 

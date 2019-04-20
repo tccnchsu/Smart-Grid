@@ -1,4 +1,7 @@
 # Smart-Grid
+超越Mask-RCNN：谷歌大脑的AI，自己写了个目标检测AI
+http://tech.sina.com.cn/csj/2019-04-19/doc-ihvhiqax3888201.shtml
+
 IET Smart Grid is now indexed in Ei Compendex and the Directory of Open Access Journals (DOAJ).                                                                           https://digital-library.theiet.org/content/journals/iet-stg
 
 

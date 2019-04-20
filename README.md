@@ -1,5 +1,6 @@
 # Smart-Grid
-書
+書  風力發電機數學都在這檔案中
+
 Electrical Machines -Mathematical Fundamentals of Machine Topologies
 https://www.academia.edu/10178085/Electrical_Machines_-Mathematical_Fundamentals_of_Machine_Topologies
 

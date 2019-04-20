@@ -29,11 +29,16 @@ http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf
 The power_SM_Fundamental example shows the use of the Synchronous Machine SI Fundamental block and the Synchronous Machine pu Fundamental block to model a 555 MVA, 24 kV, 60 Hz, 3600-rpm synchronous generator. It shows how to specify SI and pu parameters. It also explains how to compute field and damper rotor winding parameters that are referred to the stator. In addition to the field winding, the round rotor of this machine has three damper windings: one damper in the direct axis and two dampers in the quadrature axis                                                                                                                                       https://www.mathworks.com/help/physmod/sps/powersys/ref/synchronousmachine.html
 
 
+
 Synchronous Generator Modeling Using Matlab
 含狀態系統聯立方程式
 
 https://bib.irb.hr/datoteka/475823.Final_paper-_Spoljaric_Miklosevic_Jerkovic-SIP-2010.pdf
 
+有說明PWM控制
+Dynamic Simulation of Electrical Machines
+and Drive Systems Using MATLAB GUI 
+https://pdfs.semanticscholar.org/a15a/198fb7422eb15b1dfc042fe4732fc74a6db1.pdf
 
 碩士論文  表達很清楚  Simulation of a Synchronous Machine Model
 https://www.ethz.ch/content/dam/ethz/special-interest/itet/institute-eeh/power-systems-dam/documents/SAMA/2018/Hobi-SA-2018.pdf

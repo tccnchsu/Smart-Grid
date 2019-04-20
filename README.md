@@ -7,6 +7,9 @@ http://140.129.118.16/~richwang/EM/VectorAnalysisPDFAll.pdf
 Vectors, Matrices and Coordinate Transformations
 https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-07-dynamics-fall-2009/lecture-notes/MIT16_07F09_Lec03.pdf
 
+APPLICATION OF VECTOR ANALYSIS IN ELECTRIC ENERGY
+CONVERSION USING MATLABTM
+https://peer.asee.org/application-of-vector-analysis-in-electric-energy-conversion-using-matlabtm.pdf
 
 
 超越Mask-RCNN：谷歌大脑的AI，自己写了个目标检测AI

@@ -9,10 +9,13 @@ http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf
 Control:
 
 
-A Direct Torque Controlled Induction Motor Drive
-Based on Control of Tangential and Radial
-Component of Stator Flux Vector
-file:///C:/Users/tccnchsu/Downloads/A_Direct_Torque_Controlled_induction_mot.pdf
+A Direct Torque Controlled Induction Motor Drive Based on Control of Tangential and Radial Component of Stator Flux Vector
+https://www.academia.edu/27063771/Stator_Voltage_Vector_Direct_Torque_Control_of_induction_machine
+
+Induction motor torque control in field weakening regime by voltage angle control
+https://www.academia.edu/27063772/Induction_motor_torque_control_in_field_weakening_regime_by_voltage_angle_control
+
+======================================================================================================
 
 工程數學 563頁  電路的複數計算
 https://jpmccarthymaths.files.wordpress.com/2012/09/john_bird_engineering_mathematics_0750685557.pdf

@@ -114,3 +114,6 @@ https://en.wikipedia.org/wiki/Induction_motor
 
 Machine Learning Approaches to Power System Security Assessmen
 https://www.researchgate.net/profile/Louis_Wehenkel/publication/3282075_Machine_learning_approaches_to_power-system_security_assessment/links/00b4952e26f630654d000000/Machine-learning-approaches-to-power-system-security-assessment.pdf?origin=publication_detail
+
+SmartFactory as a Service
+https://www.kuka.com/en-de/technologies/industrie-4-0/SmartFactory-as-a-Service-Home

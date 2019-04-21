@@ -6,7 +6,13 @@ https://www.academia.edu/10178085/Electrical_Machines_-Mathematical_Fundamentals
 書  Analysis of Electric Machinery and Drive Systems
 http://technical.wjsco.ir/wp-content/uploads/2017/04/1388763.pdf
 
+Control:
 
+
+A Direct Torque Controlled Induction Motor Drive
+Based on Control of Tangential and Radial
+Component of Stator Flux Vector
+file:///C:/Users/tccnchsu/Downloads/A_Direct_Torque_Controlled_induction_mot.pdf
 
 工程數學 563頁  電路的複數計算
 https://jpmccarthymaths.files.wordpress.com/2012/09/john_bird_engineering_mathematics_0750685557.pdf
